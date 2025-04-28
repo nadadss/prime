@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
                   : "-translate-x-10 opacity-0"
               }`}
             >
-              <span className="text-[#0E406F]">PRIME</span> AUSTRALIA
+              <span className="text-[#0E406F]">PRIME</span> Philippines
             </span>
           </h1>
 
